@@ -1,0 +1,15 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.TODO" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="android:statusBarColor">@color/background_todo_app</item>
+    </style>
+
+    <style name="Theme.TODO" parent="Base.Theme.TODO" />
+
+    <style name="TodoSubtitle">
+        <item name="textAllCaps">true</item>
+        <item name="android:textColor">@color/subtitle_text</item>
+        <item name="android:layout_marginHorizontal">32dp</item>
+        <item name="android:layout_marginVertical">8dp</item>
+    </style>
+</resources>

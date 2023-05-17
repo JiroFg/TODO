@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">TODO</string>
+
+    <!-- main -->
+    <string name="main_welcome">Bienvenido</string>
+    <string name="main_categories">Categorias:</string>
+    <string name="main_tasks">Tareas:</string>
+    <string name="task_title">Titulo tarea</string>
+</resources>
